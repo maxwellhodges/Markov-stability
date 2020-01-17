@@ -2,7 +2,7 @@
 
 for each of the folders Combinatorial and Normalised, cd into the folder and run
 
-sudo python3 setup.py install
+python3 setup.py install
 
 the file you want is then in:
 
